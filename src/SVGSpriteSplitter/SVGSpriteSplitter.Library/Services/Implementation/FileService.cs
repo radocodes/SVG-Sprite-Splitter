@@ -1,11 +1,12 @@
-﻿using System.Collections.Generic;
+﻿using SVGSpriteSplitter.Library.Services.Contracts;
+using System.Collections.Generic;
 using System.IO;
 
 namespace SVGSpriteSplitter.Library.Services.Implementation
 {
-    internal class FileService
+    internal class FileService : IFileService
     {
-        internal string GetSVGSpriteFileContent(string spriteFileFullPath)
+        public string GetSVGSpriteFileContent(string spriteFileFullPath)
         {
             string content = null;
 
@@ -18,6 +19,14 @@ namespace SVGSpriteSplitter.Library.Services.Implementation
             }
 
             return content;
+        }
+
+        public void SaveAsSVGFile(string fileFullPath, string fileContent)
+        {
+            using (var stream = new StreamWriter(fileFullPath, false))
+            {
+                stream.WriteAsync(fileContent).GetAwaiter().GetResult();
+            };
         }
     }
 }
