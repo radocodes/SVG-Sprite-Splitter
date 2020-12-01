@@ -3,7 +3,7 @@ Application which splits SVG-Sprite file to separate SVG files
 
 Official - Download at https://radohub.com/IT/UsefulTools/SvgSpriteSplitter
 
-This console application takes one SVG sprite file and split it to separated single SVG files
+***This console application takes one SVG sprite file and split it to separated single SVG files***
 
 ### Technical Specifiactions:
 - Console Applicaton
