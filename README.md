@@ -19,7 +19,7 @@ Official - Download at https://radohub.com/IT/UsefulTools/SvgSpriteSplitter
 - This app is Freeware
 
 ### Summary and Documentation:
-Every version of this application is cross platform and self contained application. That means it doesn't depend of any frameworks (for example .net framwork (core) ).
+Every version of this application is cross platform and self contained application. That means it doesn't depend of any any specific platform or operation system (for example .NET framwork, Windows).
 You just need to download the app and to run 'ConsoleApp' execution file in your console (terminal) and to follow the instructions there.
 NOTE:
 The download file is packed in .7z (7 Zip, RAR) format. If you don't have such tool to unpack it, you can download and use some. For example 7-zip (free) or WinRar, WinZip and others.
@@ -39,5 +39,5 @@ for example: C:\test
 ##### FAQ (Frequently Asked Questions):
 If there appears some error or problem during (also after) the process, please check for invalid source data or input data.
 For example: wrong path of the source file, wrong path of the destination folder or wrong format of typing of them. And the same thing about source file content.
-In case of problem, there can exists some syntax errors, tag missing or other kind of decription in the source svg sprite file.
+In case of problem, there can exists some syntax errors, tag missing or other kind of description in the source svg sprite file.
 If you have some another questions or suggestions, please write me 
