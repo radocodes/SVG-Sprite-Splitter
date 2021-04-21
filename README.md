@@ -19,8 +19,8 @@ Official - Download at https://radohub.com/IT/UsefulTools/SvgSpriteSplitter
 - This app is Freeware
 
 ### Summary and Documentation:
-Every version of this application is cross platform and self contained application. That means it don't depends of any frameworks (for example .net framwork (core) ).
-You just need to download the app and to run 'ConsoleApp' execution file in yours console (terminal) and to follow the instructions there.
+Every version of this application is cross platform and self contained application. That means it doesn't depend of any frameworks (for example .net framwork (core) ).
+You just need to download the app and to run 'ConsoleApp' execution file in your console (terminal) and to follow the instructions there.
 NOTE:
 The download file is packed in .7z (7 Zip, RAR) format. If you don't have such tool to unpack it, you can download and use some. For example 7-zip (free) or WinRar, WinZip and others.
 Link for download 7-Zip (official site) (freeware)
