@@ -31,7 +31,7 @@ There is several steps for using this app:
 1. Run the 'ConsoleApp' exe file at the console (terminal).
 2. It will prompt you to fill the full path of the source SVG Sprite file which you want to split.
 for example: D:\SomeFolder\ExampleFile.svg
-3. As next step it will prompt you to fill the full path of the desired destination folder - the place where you what app to create the new separated svg files.
+3. As next step it will prompt you to fill the full path of the desired destination folder - the place where you want app to create the new separated svg files.
 for example: C:\test
 4. Now you have to wait the application to process you data and at the end it will inform you for the resut (Successful or Failed).
 5. After the end of the whole operation you can check manualy the destination directory for the result. Is there all files ok.
